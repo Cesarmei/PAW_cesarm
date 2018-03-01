@@ -1,0 +1,24 @@
+img{
+	width:100px;
+	height:80px;
+}
+h2{
+	color:red;
+	font-family:courier;
+}
+h3{
+	color: rgb(255, 99, 71);
+}
+pre{
+	 color:#3cb371;
+}
+#art01{
+	background-color: lightgray;
+}
+#art02{
+	background-color: green;
+}
+.definicao{
+	font-family: arial;
+	padding-left: 10px;
+}
